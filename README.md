@@ -6,6 +6,12 @@ Browse through the categories below and explore!
 
 ---
 
+## 🎓 Course Labs (MIT 6.S191)
+[![Lab 1](https://img.shields.io/badge/📘-MIT%20Lab%201-blue)](https://github.com/FaNa-AI/MIT-6.S191-Lab1)  
+[![Lab 2](https://img.shields.io/badge/📗-MIT%20Lab%202-green)](https://github.com/FaNa-AI/MIT-6.S191-Lab2)  
+[![Lab 3](https://img.shields.io/badge/📙-MIT%20Lab%203-orange)](https://github.com/FaNa-AI/MIT-6.S191-Lab3)  
+---
+
 ## 🔮 Generative Models
 [![VAE](https://img.shields.io/badge/🌀-VAE-blue)](https://github.com/faNa-ml/VAE)  
 [![GAN](https://img.shields.io/badge/✨-GAN-darkred)](https://github.com/faNa-ml/GAN)  
@@ -26,12 +32,7 @@ Browse through the categories below and explore!
 [![CLIP](https://img.shields.io/badge/🎯-CLIP-pink)](https://github.com/FaNa-AI/CLIP)  
 [![YOLO](https://img.shields.io/badge/🚀-YOLO-yellow)](https://github.com/FaNa-AI/YOLO)  
 
----
 
-## 🎓 Course Labs (MIT 6.S191)
-[![Lab 1](https://img.shields.io/badge/📘-MIT%20Lab%201-blue)](https://github.com/FaNa-AI/MIT-6.S191-Lab1)  
-[![Lab 2](https://img.shields.io/badge/📗-MIT%20Lab%202-green)](https://github.com/FaNa-AI/MIT-6.S191-Lab2)  
-[![Lab 3](https://img.shields.io/badge/📙-MIT%20Lab%203-orange)](https://github.com/FaNa-AI/MIT-6.S191-Lab3)  
 
 ---
 
